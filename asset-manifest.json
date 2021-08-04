@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recipe-finder-app/static/css/main.86849873.chunk.css",
+    "main.js": "/recipe-finder-app/static/js/main.d772a2f6.chunk.js",
+    "main.js.map": "/recipe-finder-app/static/js/main.d772a2f6.chunk.js.map",
+    "runtime-main.js": "/recipe-finder-app/static/js/runtime-main.2047e508.js",
+    "runtime-main.js.map": "/recipe-finder-app/static/js/runtime-main.2047e508.js.map",
+    "static/js/2.63c22092.chunk.js": "/recipe-finder-app/static/js/2.63c22092.chunk.js",
+    "static/js/2.63c22092.chunk.js.map": "/recipe-finder-app/static/js/2.63c22092.chunk.js.map",
+    "index.html": "/recipe-finder-app/index.html",
+    "static/css/main.86849873.chunk.css.map": "/recipe-finder-app/static/css/main.86849873.chunk.css.map",
+    "static/js/2.63c22092.chunk.js.LICENSE.txt": "/recipe-finder-app/static/js/2.63c22092.chunk.js.LICENSE.txt",
+    "static/media/hamburger.07089ff4.svg": "/recipe-finder-app/static/media/hamburger.07089ff4.svg",
+    "static/media/search-icon.077696d4.svg": "/recipe-finder-app/static/media/search-icon.077696d4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2047e508.js",
+    "static/js/2.63c22092.chunk.js",
+    "static/css/main.86849873.chunk.css",
+    "static/js/main.d772a2f6.chunk.js"
+  ]
+}
